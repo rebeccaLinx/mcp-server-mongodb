@@ -39,7 +39,7 @@ uv run main.py -host "YOUR_MONGODB_HOST" -db "YOUR_DATABASE_NAME"
 
 | Parameter | Alias | Description | Required |
 |-----------|-------|-------------|----------|
-| `--host`  | `-host`| MongoDB host address (e.g., `127.0.0.1:27017`) | Yes |
+| `--host`  | `-host`| MongoDB host address (e.g., `192.0.0.0:12345`) | Yes |
 | `--database` | `-db` | MongoDB database name (default: `avalon`) | No |
 
 ## Usage Guidelines (Crucial)
